@@ -1,5 +1,7 @@
 # requirements.txt
+gradio==5.38.2
+tensorflow==2.19.0
+numpy
 joblib
-scikit-learn==1.6.1
-tensorflow
-gradio
+scikit-learn
+h5py
